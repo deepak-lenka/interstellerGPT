@@ -8,9 +8,6 @@ This project aims to guide you through building a Generative Pretrained Transfor
 Table of Contents
 
 Introduction
-License
-
-Introduction
 
 In this repository, you will find the code and resources necessary to construct a GPT model from scratch. We will follow the methodology elucidated by Andrej Karpathy, utilizing the 'Interstellar' movie script as our dataset. By delving into the code and accompanying materials, you will develop a deep understanding of how GPT functions and its underlying mechanisms.
 
