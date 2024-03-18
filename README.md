@@ -13,7 +13,7 @@ In this repository, you will find the code and resources necessary to construct 
 
 License
 
-This project is inspired by [](https://github.com/karpathy/ng-video-lecture) by Andrej Karpathy.
+This project is inspired by https://github.com/karpathy/ng-video-lecture by Andrej Karpathy.
 
 
 Acknowledgments
