@@ -1,4 +1,6 @@
 [Open in Google Colab](https://colab.research.google.com/drive/18o4ZNXJa1Ob4aozG4yV0zyD-lHMFE-dB#scrollTo=h5hjCcLDr2WC)
+
+
 InterstellarGPT
 
 This project aims to guide you through building a Generative Pretrained Transformer (GPT) from scratch in code, following the approach detailed by Andrej Karpathy. We will use the script of the movie 'Interstellar' as our dataset. Through this journey, you'll gain insights into the inner workings of GPT and delve into its depths.
